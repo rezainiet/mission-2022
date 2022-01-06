@@ -1,0 +1,172 @@
+.flexible-container{
+    display: flex;
+}
+section{
+    margin-top: 20px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: 18px;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+h2{
+    font-size: 30px;
+}
+.half-width{
+    width: 50%;
+}
+.firstleft-div h1{
+    font-family: 'Yeseva One', cursive;
+}
+.auto-margin{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.span-color{
+    color: #FFAD5A;
+}
+.bordered-div{
+    border-left: 3px solid #FF5959;
+}
+.bordered-div h1{
+    margin-left: 5px;
+}
+.firstright-div img{
+    width: 70%;
+    align-self: center;
+    transform: translate(80px, -80px);
+}
+.all-btn{
+    border: none;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+.all-btn a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.firstleft-div p{
+    margin-top: 8px;
+}
+
+.mission-text-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.three-box{
+    width: 33%;
+}
+.three-box img{
+    width: 30%;
+}
+.first-box{
+    background-color: #4F9DA61A;
+    border-radius: 25px;
+    padding: 30px;
+}
+.second-box{
+    margin: 0 30px;
+    background-color: #FF59591A;
+    border-radius: 25px;
+    padding: 30px;
+}
+.third-box{
+    background-color: #FFF4D6;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+
+.img-width{
+    width: 30%;
+}
+.img-width img{
+    width: 100%;
+}
+.content-width{
+    width: 70%;
+}
+.unlimited-right{
+    margin-left: 60px;
+}
+.dev-wout-limits{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 0% 35%;
+    transform: translateY(-10px);
+    background-size: 150px 150px;
+    padding: 30px 0;
+}
+
+.community-section{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    transform: translateY(-10px);
+    background-size: 150px 150px;
+    padding: 30px 0;
+}
+.form-wrapper input{
+    padding: 10px 20px;
+    margin: 15px 0;
+    color: orangered;
+    outline-color: orangered;
+    font-size: 18px;
+
+}
+input[type="email"] {
+    width: 70%;
+}
+input[type="textbox"] {
+    width: 70%;
+    height: 200px;
+    text-align: start;
+}
+.gi-touch-lefthalf{
+    background-color: #d6f7fa;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+.gi-touch-lefthalf h1{
+    font-size: 40px;
+}
+#email-text{
+    font-size: 18px;
+    color: orangered;
+    width: 75%;
+    outline-color: orangered;
+}
+.getin-touch-section{
+    background-image: linear-gradient(to right, #539eff, #00d4ff);
+    padding: 20px 0
+    ;
+}
+form .all-btn{
+    color: white;
+    font-size: 18px;
+}
+
+footer{
+    padding: 15px 0;
+    background-color: #0B0D17;
+}
+
+footer h1{
+    color: white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+}
